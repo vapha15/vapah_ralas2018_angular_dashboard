@@ -1,0 +1,14 @@
+Hav nyeste version af nodejs og angular installeret. Google eventuelt hvordan du opdaterer eksisterende versioner
+
+Derefter, gennem nodejs command prompt, cd til projektmappen
+
+npm install
+
+åbn en ny nodejs command prompt og cd til projektmappen(angular-cosmosdb)/src/server
+
+kør node index.js(dette starter serveren)
+
+kør derefter ng serve i det andet nodejs command prompt. 
+
+Når det er færdigt, åbn browseren og naviger til localhost:4200.
+
