@@ -1,7 +1,6 @@
 const Hero = require("./hero.model");
-
 //require("./mongo").connect();
-const mongo = require("./mongo");
+const mongo = require('./mongo')
 mongo.connect().then(() => {
   console.log("Connected");
 });

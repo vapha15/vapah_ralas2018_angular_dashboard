@@ -8,7 +8,7 @@ const heroSchema = new Schema(
     saying: String
   },
   {
-    collection: 'Heroes'
+    collection: 'Buildings'
   }
 );
 
